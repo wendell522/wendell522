@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My Blog](https://github.com/EnoshWang/Blog) 
+[My Blog](https://gitee.com/enoshwang/Blog) 
 
 
 
