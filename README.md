@@ -19,7 +19,7 @@
    
   - 🔭 I *try* to be better
 <!--- 🌱 💬  -->
-  - ⚡ [Blog](https://enoshwang.github.io)
+  - ⚡ [Welcome to my blog](https://enoshwang.github.io)
 
 <hr>
 <strong>Statistics</strong>
@@ -27,7 +27,3 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=EnoshWang&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnoshWang&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/enosh_wang">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
