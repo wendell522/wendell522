@@ -5,6 +5,7 @@
 
 <strong>🔭 Currently focusing on...</strong>
 
+<a href="https://github.com/EnoshWang/EW"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnoshWang&repo=EW" width=350> </a>
 <a href="https://github.com/EnoshWang/DoIt"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnoshWang&repo=DoIt" width=350> </a>
 
 
@@ -17,9 +18,9 @@
 
 <strong>⚡ Others </strong>
    
-  - 🔭 I *try* to be better
+  - 🔭 *活*到老，*学*到老 
 <!--- 🌱 💬  -->
-  - ⚡ [Welcome to my blog](https://enoshwang.github.io)
+  - ⚡ [我的掘金个人主页](https://juejin.cn/user/1380642336808776)
 
 <hr>
 <strong>Statistics</strong>
