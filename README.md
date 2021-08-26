@@ -12,7 +12,7 @@
    
    1. [twitter @enosh_wang](https://twitter.com/enosh_wang)
    2. [linkedin](https://www.linkedin.com/in/%E6%96%87%E5%B8%85-%E7%8E%8B-201a97108/)
-   3. [email](mailto:enoshwang18@gmail.com)
+   3. [email](mailto:enoshwang@foxmail.com)
    
 
 <strong>⚡ Others </strong>
