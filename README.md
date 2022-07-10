@@ -5,7 +5,7 @@
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/EnoshWang/EW"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnoshWang&repo=EW" width=350> </a>
+<a href="https://github.com/EnoshWang/EnoshWang"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnoshWang&repo=EnoshWang" width=350> </a>
 
 
 <strong>📫 How to reach me </strong>
