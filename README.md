@@ -5,13 +5,12 @@
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/EnoshWang/EnoshWang"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnoshWang&repo=EnoshWang" width=350> </a>
+<a href="https://github.com/EnoshWang/ew_digital_service"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnoshWang&repo=ew_digital_service" width=350> </a>
 
 
 <strong>📫 How to reach me </strong>
    
-   1. [twitter @enosh_wang](https://twitter.com/enosh_wang "enosh_wang")
-   2. [email](mailto:enoshwang@foxmail.com "enoshwang@foxmail.com")
+   1. [email](mailto:enoshwang@foxmail.com "enoshwang@foxmail.com")
    
 
 <strong>⚡ Others </strong>
