@@ -2,15 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=wendell522" alt="wendell522" /> 
 
-<strong>🔭 Currently focusing on...</strong>
-
-<a href="https://github.com/wendell522/FreeForge-Digital-Engine"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wendell522&repo=FreeForge-Digital-Engine" width=350> </a>
-
-
 <strong>📫 How to reach me </strong>
    
    1. [email](mailto:enoshwang@foxmail.com "enoshwang@foxmail.com")
-   
 
 <strong>⚡ Others </strong>
    
